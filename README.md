@@ -5,7 +5,9 @@
 ---
 ## About the Repository
 
-This repository focuses on Telegram OSINT (Open Source Intelligence) resources. It provides tools, blogs, bots, browser extensions, and more, with a strong emphasis on **OPSEC (Operational Security)**. Always consider using **virtual machines, disposable devices, VPNs, and proper settings** to maintain privacy.
+This repository provides a comprehensive collection of tools, guides, and resources for conducting Open Source Intelligence (OSINT) investigations using Telegram. It includes tools for analyzing chats and channels, bots, browser extensions, and custom search engines. With a strong focus on OPSEC, it also offers tips on secure practices like using VPNs, virtual machines, and disposable devices. The repository is ideal for researchers and investigators aiming to uncover information efficiently and securely on Telegram.
+
+Explore the structured sections, including Google dorks, blogs, and even video tutorials, making it a go-to resource for mastering Telegram OSINT.
 
 ---
 
