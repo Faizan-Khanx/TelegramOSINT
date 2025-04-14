@@ -331,7 +331,7 @@ For any questions or feedback, please contact [E-Mail Me](mailto:fk776794@gmail.
 
 <!-- To Link your profile to the media buttons -->
 
-[2]: https://www.instagram.com/EthicalFaizan
+[2]: https://www.instagram.com/EthicalFaizann
 [3]: https://www.twitter.com/EthicalFaizan
 [4]: https://www.linkedin.com/in/EthicalFaizan
 [5]: https://www.github.com/faizan-khanx
