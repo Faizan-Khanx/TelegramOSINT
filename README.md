@@ -220,7 +220,7 @@ Similarly, you can find the wallet addresses of any cryptocurrency, as well as s
 | **Bot Name**            | **Description**                                                                | **Link**                                |
 |-------------------------|--------------------------------------------------------------------------------|----------------------------------------|
 | Faizan Breached        | Search leaked data for emails, phone numbers, usernames , Id Pass And Govt Documents.                  | [Faizan Breached](https://t.me/BreachedInfoBot) |
-| Leak Check Bot          | Check emails and usernames in leaked databases.                               | [Leak Check Bot](https://web.telegram.org/k/#@LeakCheckBot) |
+| Leak Check Bot          | Check emails and usernames in leaked databases.                               | [Leak Check Bot](https://telegram.org/k/@TGInvestigatorsbot) |
 | Sang Mata Bot           | Track username and name changes.                                              | [Sang Mata Bot](https://t.me/SangMata_beta_bot)   |
 | Whois Bot               | Perform a simple domain WHOIS lookup.                                         | [Whois Bot](https://t.me/whois_bot)               |
 
